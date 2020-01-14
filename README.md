@@ -1,6 +1,3 @@
----
-description: demo
----
+# Table of contents
 
-# Initial page
-
+* [Initial page](README.md)
